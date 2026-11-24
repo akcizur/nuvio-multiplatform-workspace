@@ -1,0 +1,27 @@
+# Downloaded upstream working trees
+/upstream/
+/references/
+
+# Build outputs
+**/build/
+**/.gradle/
+**/.kotlin/
+**/node_modules/
+**/dist/
+**/DerivedData/
+**/.swiftpm/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/out/
+
+# Local secrets and machine-specific files
+.env
+.env.*
+!.env.example
+**/local.properties
+**/*.keystore
+**/*.jks
+**/*.p12
+**/*.mobileprovision
+.DS_Store
+Thumbs.db

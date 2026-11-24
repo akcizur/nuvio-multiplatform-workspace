@@ -1,0 +1,15 @@
+# id|repository|branch|commit|license|class|directory
+mobile|NuvioMobile|cmp-rewrite|0d20af832d381e5ab3a385deccfbc47c12b93bf1|GPL-3.0|core|upstream/mobile
+desktop|NuvioDesktop|Dev|04c94b54334c6ad2a1b18f48393d2a31e0dda2fc|GPL-3.0|core|upstream/desktop
+android-tv|NuvioTV|dev|77cc0bb5f42f55c5e3877fc4d57a7df510c3f42b|GPL-3.0|core|upstream/android-tv
+smart-tv|NuvioTVSmart|main|b3f93f1495d7ea1a96b1f5d870e90b9ae64956fe|GPL-3.0|core|upstream/smart-tv
+backend|self-host|main|30f156807ae77b2aec80b091b0d513841a25ab91|Apache-2.0|core|upstream/backend
+engine|nuvio-engine|main|167f8541d2e07212a9cf7034b9ca4a0c3b6be4d3|GPL-3.0-or-later|core|upstream/engine
+mpvkit|MPVKit|Nuvio|1671d3016195f8a703cc21296121ea6b988325a8|LGPL-3.0|core|upstream/mpvkit
+usenet-engine|nuvio-usenet-engine|main|65da4c88b7d26dbec680de6474584f6994415b19|GPL-3.0|core|upstream/usenet-engine
+speech-models|speech-models|main|97c484b20fd9998b1076425c8915e683f92160b2|Apache-2.0|optional|upstream/speech-models
+tv-installer|NuvioTVSmart-Installer|main|eac7a78d8a130bc471867d0f334cb5b64855e4c1|NO-LICENSE-FILE|reference|references/tv-installer
+webos-wrapper|NuvioTVWebOS|main|0ae1177d60556014dd4f00777cb5966162ad39f7|NO-LICENSE-FILE|reference|references/webos-wrapper
+tizen-wrapper|NuvioTizen|main|097b3936f40e81362083c7f8af1655a2915f2360|NO-LICENSE-FILE|reference|references/tizen-wrapper
+tizenbrew-wrapper|NuvioTVTizenBrew|main|f3851d9ff671cca0c6d48bc7bb79b8c7debbddcc|NO-LICENSE-FILE|reference|references/tizenbrew-wrapper
+libass-fork|nuvio-libass|main|3b1aab1206222ece39cdeeb009ae03a82a7e74d8|NO-LICENSE-FILE|reference|references/libass-fork
