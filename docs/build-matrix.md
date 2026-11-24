@@ -37,7 +37,7 @@ cd upstream/desktop
 ./gradlew :composeApp:packageReleaseDistributionForCurrentOS
 ```
 
-For Windows PowerShell, use `.`\gradlew.bat :composeApp:packageReleaseMsi --rerun-tasks` from the upstream desktop directory.
+For Windows PowerShell, use `.` + `gradlew.bat :composeApp:packageReleaseMsi --rerun-tasks` from the upstream desktop directory.
 
 ## Backend local setup
 
